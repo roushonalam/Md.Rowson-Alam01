@@ -1,0 +1,8 @@
+{
+  "name": "EduGenius AI",
+  "description": "Next-gen bilingual AI learning platform for Bengali and English students by Apex Edutech Labs Inc.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
